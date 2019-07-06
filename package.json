@@ -1,0 +1,23 @@
+{
+  "name": "simple-we-camera-app",
+  "version": "1.0.0",
+  "description": "capture photo using simple camera app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkasaudhan/simple-web-camera-app.git"
+  },
+  "author": "jitendra kasaudhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkasaudhan/simple-web-camera-app/issues"
+  },
+  "homepage": "https://github.com/jkasaudhan/simple-web-camera-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
